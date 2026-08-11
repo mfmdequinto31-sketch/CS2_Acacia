@@ -15,7 +15,7 @@ Enter: y2
 ## Sample output
 import math
 print (
-Enter: x1
+x1 = int(Enter: x1
 Enter: x2
 Enter: y1
 Enter: y2
