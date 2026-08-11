@@ -1,6 +1,7 @@
 # Q1_Acacia_FA1_Dequinto
 
-## Calculate the distance between the two points using the Euclidean distance formula
+## Description
+Calculate the distance between two points using the Euclidean distance formula
 
 ## How to run
 
