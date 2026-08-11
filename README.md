@@ -20,7 +20,7 @@ Calculate the distance between the two points
 - Enter x2:
 - Enter y1:
 - Enter y2:
-The Distance between the two points is, 2.0
+- The Distance between the two points is, 2.0
 
 ## Author
 - Name: Marco Faustino M. Dequinto
