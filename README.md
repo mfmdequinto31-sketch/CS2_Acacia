@@ -7,10 +7,10 @@ Calculate the distance between two points using the Euclidean distance formula
 1.
 
 ## Input needed
-Enter x1
-Enter x2
-Enter y1
-Enter y2
+Enter: x1
+Enter: x2
+Enter: y1
+Enter: y2
 
 ## Sample output
 import math
@@ -19,7 +19,7 @@ Enter: x1
 Enter: x2
 Enter: y1
 Enter: y2
-distance = 
+distance = round (math.sqrt (
 
 ## Author
 Name: Marco Faustino M. Dequinto
