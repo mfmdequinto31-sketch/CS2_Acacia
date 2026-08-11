@@ -5,7 +5,8 @@ Calculate the distance between two points using the Euclidean distance formula
 
 ## How to run
 1. Open the program.
-2. 2.
+2. Run the program.
+3. Enter the required values.
 
 ## Input needed
 - Value of x1
