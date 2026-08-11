@@ -1,17 +1,18 @@
 import math
-# print
+
+# print the problem that the user has
 print("Calculate the distance between two points")
 
-# input
+# Ask the user to enter the x_coordinates of the first and second point
 x1 = int(input("Enter x1:"))
 x2 = int(input("Enter x2:"))
 
-# input
+# Ask the user to enter the y_coordinate of the first and second point
 y1 = int(input("Enter y1:"))
 y2 = int(input("Enter y2:"))
 
-# answer
+# compute the distance using the distance formula
 distance = round(math.sqrt((pow((x2 - x1),2)) + pow((y2 - y1),2)),2)
 
-# print
+# print the distance rounded to two points
 print("The distance between two points is,", d)
