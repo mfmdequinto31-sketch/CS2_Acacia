@@ -23,5 +23,5 @@ Calculate the distance between the two points
 The Distance between the two points is, 2.0
 
 ## Author
-Name: Marco Faustino M. Dequinto
-Section: 8 - Acacia
+- Name: Marco Faustino M. Dequinto
+- Section: 8 - Acacia
